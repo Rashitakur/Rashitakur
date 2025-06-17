@@ -13,7 +13,10 @@ Hi, I'm Rashita, passionate about AI, ML, and Quantum Computing. Turning ideas i
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
+![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?logo=qiskit&logoColor=white)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-black?logo=quantconnect&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big%20Data-blueviolet?logo=apache&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?logo=kaspersky&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
