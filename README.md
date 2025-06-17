@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rashita (Rashitakur07)
+# 👋 Hi, I'm Rashita 
 
 ### 💡 About Me
 I'm Rashita Thakur from Hamirpur, Himachal Pradesh, a B.Tech graduate in Computer Science & Engineering.  
