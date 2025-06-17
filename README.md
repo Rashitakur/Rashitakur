@@ -57,3 +57,10 @@ I enjoy solving real-world problems through modern data technologies and buildin
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
 </p>
+## 📊 GitHub Stats:
+
+![Rashita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashitakur&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashitakur&layout=compact&theme=tokyonight)
+
+
