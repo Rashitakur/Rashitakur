@@ -1,5 +1,3 @@
- 
- 
 # 👋 Hi, I'm Rashita 
 
 ### 💡 About Me
@@ -27,7 +25,6 @@ I enjoy solving real-world problems through modern data technologies and buildin
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge"/>
 
   <!-- AI / ML / DL -->
@@ -49,6 +46,7 @@ I enjoy solving real-world problems through modern data technologies and buildin
   <!-- Quantum & Cyber -->
   <img src="https://img.shields.io/badge/Qiskit-6929c4?logo=qiskit&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PennyLane-FF4785?style=for-the-badge&logo=pennylane&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM%20Quantum%20Simulator-blue?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quantum%20Computing-black?logo=quantconnect&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-red?logo=kaspersky&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Big%20Data-blueviolet?logo=apache&logoColor=white&style=for-the-badge"/>
