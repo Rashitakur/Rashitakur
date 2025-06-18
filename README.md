@@ -1,3 +1,5 @@
+ 
+ 
 # 👋 Hi, I'm Rashita 
 
 ### 💡 About Me
@@ -24,11 +26,14 @@ I enjoy solving real-world problems through modern data technologies and buildin
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
- 
+
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge"/>
 
-  <!-- ML / DL -->
+  <!-- AI / ML / DL -->
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-191970?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF4081?style=for-the-badge&logo=deepin&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
@@ -38,7 +43,6 @@ I enjoy solving real-world problems through modern data technologies and buildin
   <!-- Data Tools -->
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
- 
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
 
@@ -57,10 +61,11 @@ I enjoy solving real-world problems through modern data technologies and buildin
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
 </p>
+
+---
+
 ## 📊 GitHub Stats:
 
 ![Rashita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashitakur&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashitakur&layout=compact&theme=tokyonight)
-
-
