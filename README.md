@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rashita 
 
 ### 💡 About Me
+<h1> Er. Rashita Thakur</h1>
 I'm Rashita Thakur from Hamirpur, Himachal Pradesh, a B.Tech graduate in Computer Science & Engineering.  
 My interests span across **Python programming**, **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing**.  
 I enjoy solving real-world problems through modern data technologies and building meaningful, impactful projects.
